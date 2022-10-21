@@ -80,58 +80,58 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['19093007487', '𝕭𝖔𝖙 • Andii ༢࿔ྀ', true],
-['19093007487', '𝕭𝖔𝖙', true]
+['6283866737879', '𝕭𝖔𝖙', true],
+['6283866737879', 'Andii ༢࿔ྀ', true]
 ]
 global.mods = []
 global.prems = []
 global.nomorbot = '6283866737879'
-global.nomorown = '19093007487'
-global.nomorown1 = '19093007487'
-global.nomorown2 = '19093007487'
+global.nomorown = '6283866737879'
+global.nomorown1 = '6283866737879'
+global.nomorown2 = '6283866737879'
 global.nomorwa = '0'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = '𝕭𝖔𝖙'
-global.namebot = '​ 𝕭𝖔𝖙'
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝕭𝖔𝖙'
+global.author = '𝕭𝖔𝖙 • Andii ༢࿔ྀ'
+global.namebot = '​𝕭𝖔𝖙 • Andii ༢࿔ྀ
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝕭𝖔𝖙 • Andii ༢࿔ྀ'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
 global.wm = '𝕭𝖔𝖙 • Andii ༢࿔ྀ '
 global.watermark = wm
 global.wm2 = '𝕭𝖔𝖙 • Andii ༢࿔ྀ '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `𝕭𝖔𝖙`
+global.titlebot = `𝕭𝖔𝖙 • Andii ༢࿔ྀ`
 global.stickpack = '𝕭𝖔𝖙 • Andii ༢࿔ྀ'
 global.stickauth = `© 𝕭𝖔𝖙 • Andii ༢࿔ྀ`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.nameown1= '𝕭𝖔𝖙'
-global.nameown2 = '𝕭𝖔𝖙'
+global.nameown2 = 'Andii ༢࿔ྀ'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
-global.lynk = '-'
+global.lynk = 'https://lynk.id/hyuuraofc'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.sig = 'https://instagram.com/F'
 global.sgh = 'https://github.com/F' //github
-global.sgc = 'https://chat.whatsapp.com/I5Db3FObXsl3fdb3XwT3NK' //group whatsapp
+global.sgc = 'https://chat.whatsapp.com/LmbsOrpSGEpDdFdpuukmmP' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'https://chat.whatsapp.com/I5Db3FObXsl3fdb3XwT3NK'
+global.snh = 'https://youtube.com/channel/UCjoPsysjCn2Qa0dRalUb2mg'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '083866737879'
+global.pdana = '0838 6673 7879'
 global.povo = '-'
-global.pgopay = '083866737879'
+global.pgopay = '0838 6673 7879'
 global.plinkaja = '-' //link aja
-global.ppulsa = '083866737879'
+global.ppulsa = '0838 6673 7879'
 global.ppulsa2 = '083866737879'
-global.psaweria = '-'
+global.psaweria = 'https://saweria.co/hyuura'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
@@ -345,7 +345,7 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.urlnya = "https://www.instagram.com/F"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+19093007487'
+global.phn = '0838 6673 7879'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
